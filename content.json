@@ -292,11 +292,11 @@
     "cookieYesId": ""
   },
   "theme": {
-    "paper": "#faf9f6",
-    "ink": "#222c28",
-    "accent": "#36775f",
-    "warm": "#bc7255",
-    "header": "#e18b51"
+    "paper": "#f7faff",
+    "ink": "#172b45",
+    "accent": "#245c99",
+    "warm": "#ad6237",
+    "header": "#152d4b"
   },
   "motion": {
     "enabled": true,
