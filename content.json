@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "site": {
+    "name": "Talha Shaharyar",
+    "initials": "TS",
+    "title": "Talha Shaharyar — Construction & intelligent systems",
+    "description": "Exploring the connections between construction, digital workflows, and intelligent systems.",
+    "eyebrow": "Civil engineer · Product solutions · Future researcher",
+    "headline": "From construction\nto intelligence.",
+    "intro": "I work where construction practice meets digital systems. My interests connect project delivery, BIM, and AI with a simple question: how can better project knowledge help people and systems make better decisions?",
+    "portrait": "",
+    "portraitAlt": "Portrait of Talha Shaharyar",
+    "heroImage": "assets/construction.jpg",
+    "heroImageAlt": "Concrete building under construction",
+    "heroCaption": "Construction practice. Connected thinking.",
+    "imageCredit": "Photo: Tolu Olubode / Unsplash",
+    "imageCreditUrl": "https://unsplash.com/photos/gray-concrete-building-under-construction-PlBsJ5MybGc",
+    "timelineTitle": "A connected journey.",
+    "timelineDescription": "Explore experience, projects, ideas, and milestones. This starting portfolio includes clearly marked sample entries you can replace.",
+    "searchPlaceholder": "Search the journey",
+    "aboutLabel": "The person behind the work",
+    "featureLabel": "Featured idea",
+    "footerNote": "Construction practitioner. Curious about what comes next.",
+    "heroLinkLabel": "Explore the journey",
+    "heroLinkUrl": "#journey",
+    "journeyLabel": "The journey",
+    "showAllLabel": "Show all",
+    "emptyTitle": "No matching entries.",
+    "emptyDescription": "Try another phrase or explore the full journey.",
+    "resetLabel": "Reset filters",
+    "cookiePreferencesLabel": "Cookie preferences",
+    "editorLinkLabel": "Edit website"
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "url": "#home"
+    },
+    {
+      "label": "Journey",
+      "url": "#journey"
+    },
+    {
+      "label": "Featured",
+      "url": "#featured"
+    },
+    {
+      "label": "About",
+      "url": "#about"
+    },
+    {
+      "label": "Contact",
+      "url": "#contact"
+    }
+  ],
+  "milestones": [
+    {
+      "id": "m1",
+      "date": "2022–2024",
+      "title": "Understanding the work.",
+      "description": "Estimating, scope interpretation, and construction workflows form the foundation of my perspective.",
+      "image": "assets/construction.jpg",
+      "imageAlt": "Construction framework",
+      "linkLabel": "Explore experience",
+      "url": "#journey",
+      "position": "20% center"
+    },
+    {
+      "id": "m2",
+      "date": "2024–2026",
+      "title": "Connecting the pieces.",
+      "description": "Project delivery brings schedules, costs, documentation, and people into one connected system.",
+      "image": "assets/construction.jpg",
+      "imageAlt": "Construction structure detail",
+      "linkLabel": "Explore projects",
+      "url": "#journey",
+      "position": "65% center"
+    },
+    {
+      "id": "m3",
+      "date": "2026 & beyond",
+      "title": "Building new intelligence.",
+      "description": "My next chapter explores BIM, AI, and project knowledge as foundations for intelligent construction.",
+      "image": "assets/construction.jpg",
+      "imageAlt": "Construction and infrastructure",
+      "linkLabel": "Explore research interests",
+      "url": "#journey",
+      "position": "right center"
+    }
+  ],
+  "categories": [
+    {
+      "id": "experience",
+      "label": "Experience",
+      "description": "Practice & delivery"
+    },
+    {
+      "id": "projects",
+      "label": "Projects",
+      "description": "Selected work"
+    },
+    {
+      "id": "research",
+      "label": "Research interests",
+      "description": "Questions worth exploring"
+    },
+    {
+      "id": "achievements",
+      "label": "Achievements",
+      "description": "Learning & milestones"
+    }
+  ],
+  "entries": [
+    {
+      "id": "e1",
+      "year": "2026",
+      "category": "experience",
+      "title": "Product Solutions Engineer",
+      "subtitle": "NXTGN PLEX · Jan 2026–present",
+      "description": "Working with AI-powered project management: understanding client workflows, translating needs into product opportunities, and connecting construction practice with digital solutions.",
+      "image": "",
+      "imageAlt": "",
+      "links": [
+        {
+          "label": "Discuss my work",
+          "url": "#contact"
+        }
+      ],
+      "featured": false,
+      "sample": false
+    },
+    {
+      "id": "e2",
+      "year": "2024–2026",
+      "category": "experience",
+      "title": "Project engineering in California",
+      "subtitle": "TSI Engineering Inc.",
+      "description": "Supporting U.S. project delivery through scheduling, subcontractor coordination, RFIs, submittals, procurement, and cost control.",
+      "image": "assets/construction.jpg",
+      "imageAlt": "Illustrative construction photograph, not a TSI project",
+      "links": [
+        {
+          "label": "Read my background",
+          "url": "#about"
+        }
+      ],
+      "featured": false,
+      "sample": false
+    },
+    {
+      "id": "e3",
+      "year": "2024",
+      "category": "achievements",
+      "title": "Bachelor of Civil Engineering",
+      "subtitle": "NUST Islamabad · CGPA 3.46/4.00",
+      "description": "A foundation in civil engineering, construction management, and practical problem-solving.",
+      "image": "",
+      "imageAlt": "",
+      "links": [],
+      "featured": false,
+      "sample": false
+    },
+    {
+      "id": "e4",
+      "year": "2026",
+      "category": "research",
+      "title": "Project knowledge for intelligent systems",
+      "subtitle": "Research interest",
+      "description": "Exploring how drawings, BIM, schedules, RFIs, submittals, and field observations can inform AI and automated construction systems.",
+      "image": "",
+      "imageAlt": "",
+      "links": [
+        {
+          "label": "Explore the idea",
+          "url": "#featured"
+        }
+      ],
+      "featured": true,
+      "sample": false
+    },
+    {
+      "id": "e5",
+      "year": "2025",
+      "category": "projects",
+      "title": "Your next project goes here",
+      "subtitle": "Sample project · Replace in the editor",
+      "description": "Describe the problem, your contribution, the tools you used, and the result. Add a project image and as many supporting links as you need.",
+      "image": "assets/construction.jpg",
+      "imageAlt": "Illustrative construction photograph",
+      "links": [
+        {
+          "label": "Project details",
+          "url": "#featured"
+        }
+      ],
+      "featured": false,
+      "sample": true
+    },
+    {
+      "id": "e6",
+      "year": "2026",
+      "category": "achievements",
+      "title": "A milestone worth sharing",
+      "subtitle": "Sample achievement · Replace in the editor",
+      "description": "Use this entry for an award, certification, workshop, presentation, or another milestone. You can add new categories whenever your portfolio grows.",
+      "image": "",
+      "imageAlt": "",
+      "links": [],
+      "featured": false,
+      "sample": true
+    }
+  ],
+  "feature": {
+    "title": "Knowledge before automation.",
+    "subtitle": "An idea I want to explore",
+    "description": "Automated systems need access to project knowledge, not just perception and task logic. I am interested in how construction information can become useful context for decisions, planning, and action.",
+    "quote": "What changes when a system understands the project, as well as the task?",
+    "image": "assets/construction.jpg",
+    "imageAlt": "Illustrative construction structure",
+    "links": [
+      {
+        "label": "Talk about research",
+        "url": "mailto:talhashaharyar@gmail.com"
+      }
+    ]
+  },
+  "about": {
+    "title": "Talha Shaharyar.",
+    "description": "I am a civil engineer based in Faisalabad, Pakistan, with experience across estimating, U.S. project delivery, and AI-powered product solutions.\n\nMy interests sit at the intersection of construction practice, BIM, project knowledge, and intelligent systems. I am building a career and research direction grounded in the real information and constraints that shape construction work.",
+    "image": "",
+    "imageAlt": "Portrait of Talha Shaharyar",
+    "links": [
+      {
+        "label": "Get in touch",
+        "url": "mailto:talhashaharyar@gmail.com"
+      }
+    ]
+  },
+  "footer": {
+    "copyright": "© 2026 Talha Shaharyar",
+    "columns": [
+      {
+        "title": "Get in touch",
+        "description": "Faisalabad, Pakistan\nOpen to meaningful conversations.",
+        "links": [
+          {
+            "label": "Email Talha",
+            "url": "mailto:talhashaharyar@gmail.com"
+          }
+        ]
+      },
+      {
+        "title": "Explore",
+        "description": "",
+        "links": [
+          {
+            "label": "Experience & projects",
+            "url": "#journey"
+          },
+          {
+            "label": "Research interests",
+            "url": "#featured"
+          }
+        ]
+      },
+      {
+        "title": "Elsewhere",
+        "description": "Add your social profiles in the editor.",
+        "links": [
+          {
+            "label": "GitHub",
+            "url": "https://github.com/TalhaShaharyar"
+          }
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "updated": "October 2026",
+    "body": "This portfolio presents professional information and links to external websites.\n\nThis initial version does not run advertising or analytics trackers. Your cookie preference is saved in your browser. The editor can save a draft on your device only when you choose Save draft.\n\nIf you contact me by email, your message is handled by the email provider. External links have their own privacy policies.\n\nReplace this draft policy with wording that reflects the services you enable on your website.",
+    "linkLabel": "Privacy policy"
+  },
+  "cookies": {
+    "enabled": true,
+    "title": "Your privacy, your choice.",
+    "description": "This portfolio currently uses no optional tracking cookies. You can save your preferences or continue with necessary storage only.",
+    "acceptLabel": "Accept all",
+    "rejectLabel": "Necessary only",
+    "settingsLabel": "Preferences",
+    "cookieYesId": ""
+  },
+  "theme": {
+    "paper": "#faf9f6",
+    "ink": "#222c28",
+    "accent": "#36775f",
+    "warm": "#bc7255",
+    "header": "#22372d"
+  },
+  "motion": {
+    "enabled": true,
+    "slideshowSeconds": 6.8
+  }
+}

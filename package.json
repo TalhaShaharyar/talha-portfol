@@ -1,0 +1,9 @@
+{
+  "name": "talha-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node dev-server.cjs",
+    "build": "node --check app.js && node --check admin/admin.js && node --check privacy.js"
+  }
+}
