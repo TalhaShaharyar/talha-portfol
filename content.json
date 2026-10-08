@@ -46,6 +46,10 @@
       "url": "#featured"
     },
     {
+      "label": "Skills",
+      "url": "#skills"
+    },
+    {
       "label": "About",
       "url": "#about"
     },
@@ -301,5 +305,49 @@
   "motion": {
     "enabled": true,
     "slideshowSeconds": 6.8
+  },
+  "skills": {
+    "enabled": true,
+    "label": "Practical capabilities",
+    "title": "Skills & tools.",
+    "description": "The capabilities I bring to construction delivery, digital workflows, and product solutions.",
+    "items": [
+      {
+        "id": "skill-preconstruction",
+        "title": "Estimating & preconstruction",
+        "description": "Quantity takeoffs, cost estimates, scope interpretation, and bid preparation.",
+        "tools": "PlanSwift\nBluebeam Revu\nMicrosoft Excel",
+        "image": "",
+        "imageAlt": "",
+        "links": []
+      },
+      {
+        "id": "skill-delivery",
+        "title": "Project delivery & controls",
+        "description": "Planning, CPM scheduling, procurement, RFIs, submittals, and progress reporting.",
+        "tools": "Primavera P6\nCost control\nDocument control",
+        "image": "",
+        "imageAlt": "",
+        "links": []
+      },
+      {
+        "id": "skill-bim",
+        "title": "BIM & digital construction",
+        "description": "Modeling, documentation, and coordination across building and infrastructure workflows.",
+        "tools": "Revit\nNavisworks\nAutoCAD\nCivil 3D",
+        "image": "",
+        "imageAlt": "",
+        "links": []
+      },
+      {
+        "id": "skill-product",
+        "title": "Product solutions & data",
+        "description": "Client workflow analysis, requirements, product testing, and AI-powered project-management workflows.",
+        "tools": "Power BI\nPython\nC#",
+        "image": "",
+        "imageAlt": "",
+        "links": []
+      }
+    ]
   }
 }
