@@ -85,3 +85,11 @@ body.no-motion .entry-media img,body.no-motion .story-thumb{transform:none}
  #milestones:before{height:auto;bottom:28px}
 }
 @media(max-width:380px){.hero-art{height:310px}.hero .eyebrow{font-size:10px}.hero h1{font-size:35px}}
+
+/* Keep the desktop portrait's organic frame proportional at every width. */
+@media(min-width:761px){
+ .hero-art{width:min(100%,480px);height:auto;aspect-ratio:auto;justify-self:center;padding:20px 12px 0}
+ .hero-blob{position:relative;inset:auto;width:100%;height:auto;aspect-ratio:1;flex-shrink:0}
+ .art-orbit{inset:8px 0 48px}
+ .art-caption{position:relative;left:auto;right:auto;bottom:auto;width:100%;margin-top:40px;padding-inline:12px}
+}
